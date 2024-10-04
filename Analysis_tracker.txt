@@ -1,0 +1,11 @@
+1. K Fold Number of Fold comparison (Done)
+2. MIFS score table :  [('WQI', 1.2290929594821483), ('Fluoride', 0.5069900754011807), ('Alkalinity', 0.30410243572621787), ('is_drinkable', 0.22530174228408706), ('Index', 0.19848461390217165), ('EC', 0.17905224235885742), ('District', 0.17708134245474616), ('TDS', 0.16371905656337038), ('TH', 0.11127010633382639), ('Potassium', 0.09913506151476836), ('Bicarbonate', 0.09127693235972378), ('Magnesium', 0.06122366413582947), ('Chloride', 0.06114647430917808), ('Calcium', 0.03219794206996829), ('Sulphate', 0.030412959023842223), ('Sodium', 0.027761564013237372), ('WQC', 0.023160681013975726), ('Village', 0.014102363039738997), ('pH', 0.0)]
+
+3. Meta Learning results (Done)
+4. Individual Model comparison (Done)
+5. Runtime Comparison (Done)
+6. AI Optimization information
+7. Univariate Analysis (Done)
+8. Bivariate Analysis (Done)
+9. Outlier Analysis (Done)
+
